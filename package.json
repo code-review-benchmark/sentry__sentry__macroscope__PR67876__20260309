@@ -47,7 +47,7 @@
     "@react-stately/slider": "^3.5.0",
     "@react-stately/tabs": "^3.6.3",
     "@react-stately/tree": "^3.7.5",
-    "@react-types/shared": "^3.22.0",
+    "@react-types/shared": "^3.33.1",
     "@rsdoctor/webpack-plugin": "^0.1.0",
     "@sentry-internal/global-search": "^0.5.7",
     "@sentry-internal/react-inspector": "6.0.1-4",
